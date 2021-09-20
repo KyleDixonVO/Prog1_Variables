@@ -49,6 +49,37 @@ namespace Variables
             Console.WriteLine(lastName);
             Console.WriteLine(fullName);
             Console.ReadKey(true);
-        }
+
+            //Floats
+            //Float = "floating point' = stores real numbers
+            //100000000.0000
+            //100000.0000000
+            //10.00000000000
+            
+            float speed; //in kph
+            float distanceTravelled; //in kms
+            speed = 100.0f;
+            distanceTravelled = 2345.67f;
+            
+            Console.WriteLine("Speed: " + speed);
+            Console.WriteLine("odometer: " + distanceTravelled);
+
+            Console.ReadKey(true);
+
+
+            //Ints Vs Floats
+            int intTest;
+            float floatTest;
+            intTest = 10 / 3; // = 3
+            floatTest = 10 / 3; // =3
+            Console.WriteLine(intTest);
+            Console.WriteLine(floatTest);
+            floatTest = 10.0f / 3.0f; // =3.333333...
+            Console.WriteLine(floatTest);
+
+            Console.ReadKey(true);
+            
+        }   
+    
     }
 }
