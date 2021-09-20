@@ -12,7 +12,9 @@ namespace Variables
         {
             Console.WriteLine("Howdy!");
 
-            //int = integer
+           
+            
+            //Integers
             int score; //creates integer named score
             score = 0; //set the value of score, in this case 0
 
@@ -29,6 +31,24 @@ namespace Variables
             Console.WriteLine(score);
             Console.ReadKey(true);
 
+            //Strings
+
+            string name; //declaring a string with the name "name"
+            name = "yourNameHere";  //setting string variable
+            Console.WriteLine(name);
+            name = "Kyle";
+            Console.WriteLine(name);
+
+            string firstName;
+            string lastName;
+            string fullName;
+            firstName = "Kyle";
+            lastName = "Dixon";
+            fullName = firstName + " " + lastName;
+            Console.WriteLine(firstName);
+            Console.WriteLine(lastName);
+            Console.WriteLine(fullName);
+            Console.ReadKey(true);
         }
     }
 }

@@ -5,3 +5,10 @@ C:\Users\W0453327\OneDrive - Nova Scotia Community College\C# Code\Variables\obj
 C:\Users\W0453327\OneDrive - Nova Scotia Community College\C# Code\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
 C:\Users\W0453327\OneDrive - Nova Scotia Community College\C# Code\Variables\obj\Debug\Variables.exe
 C:\Users\W0453327\OneDrive - Nova Scotia Community College\C# Code\Variables\obj\Debug\Variables.pdb
+C:\Users\W0453327\OneDrive - Nova Scotia Community College\Prog1_Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\W0453327\OneDrive - Nova Scotia Community College\Prog1_Variables\Variables\bin\Debug\Variables.exe
+C:\Users\W0453327\OneDrive - Nova Scotia Community College\Prog1_Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\W0453327\OneDrive - Nova Scotia Community College\Prog1_Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\W0453327\OneDrive - Nova Scotia Community College\Prog1_Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\W0453327\OneDrive - Nova Scotia Community College\Prog1_Variables\Variables\obj\Debug\Variables.exe
+C:\Users\W0453327\OneDrive - Nova Scotia Community College\Prog1_Variables\Variables\obj\Debug\Variables.pdb
