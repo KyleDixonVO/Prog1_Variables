@@ -79,6 +79,34 @@ namespace Variables
 
             Console.ReadKey(true);
             
+            //Formulas
+            //Code is executed in order, variables may be overwritten if not careful.
+            //Console.WriteLine is good for debugging.
+
+            int lives;
+            lives = 3; 
+            Console.WriteLine("Lives: " + lives);
+            lives = lives - 1;
+            Console.WriteLine("Lives: " + lives);
+
+            
+            int enemyPoints;
+            enemyPoints = 100; //storing or naming important numbers keeps code readable
+
+            score = 0;
+            Console.WriteLine(score);
+            score = score + enemyPoints;
+            Console.WriteLine(score);
+            
+
+
+
+
+
+
+
+
+            Console.ReadKey(true);
         }   
     
     }
